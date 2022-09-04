@@ -17,13 +17,13 @@ while (num <= numbers.GetLength(0) * numbers.GetLength(1))
 {
     numbers[i, j] = num;
     if (i <= j + 1 && i + j < sizeArray - 1)
-        ++j;
+        j++;
     else if (i < j && i + j >= sizeArray - 1)
-        ++i;
+        i++;
     else if (i >= j && i + j > sizeArray - 1)
-        --j;
+        j--;
     else
-        --i;
+        i--;
     ++num;
 }
 
