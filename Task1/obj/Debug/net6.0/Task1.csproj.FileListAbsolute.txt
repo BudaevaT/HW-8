@@ -1,0 +1,15 @@
+C:\Frontend-Developer\C#\HW-8\Task1\bin\Debug\net6.0\Task1.exe
+C:\Frontend-Developer\C#\HW-8\Task1\bin\Debug\net6.0\Task1.deps.json
+C:\Frontend-Developer\C#\HW-8\Task1\bin\Debug\net6.0\Task1.runtimeconfig.json
+C:\Frontend-Developer\C#\HW-8\Task1\bin\Debug\net6.0\Task1.dll
+C:\Frontend-Developer\C#\HW-8\Task1\bin\Debug\net6.0\Task1.pdb
+C:\Frontend-Developer\C#\HW-8\Task1\obj\Debug\net6.0\Task1.csproj.AssemblyReference.cache
+C:\Frontend-Developer\C#\HW-8\Task1\obj\Debug\net6.0\Task1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Frontend-Developer\C#\HW-8\Task1\obj\Debug\net6.0\Task1.AssemblyInfoInputs.cache
+C:\Frontend-Developer\C#\HW-8\Task1\obj\Debug\net6.0\Task1.AssemblyInfo.cs
+C:\Frontend-Developer\C#\HW-8\Task1\obj\Debug\net6.0\Task1.csproj.CoreCompileInputs.cache
+C:\Frontend-Developer\C#\HW-8\Task1\obj\Debug\net6.0\Task1.dll
+C:\Frontend-Developer\C#\HW-8\Task1\obj\Debug\net6.0\refint\Task1.dll
+C:\Frontend-Developer\C#\HW-8\Task1\obj\Debug\net6.0\Task1.pdb
+C:\Frontend-Developer\C#\HW-8\Task1\obj\Debug\net6.0\Task1.genruntimeconfig.cache
+C:\Frontend-Developer\C#\HW-8\Task1\obj\Debug\net6.0\ref\Task1.dll
