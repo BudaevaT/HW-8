@@ -5,7 +5,6 @@
 // 11 16 15 06
 // 10 09 08 07
 
-Console.WriteLine("Введите размер массива");
 int sizeArray = 4;
 
 int[,] numbers = new int[sizeArray, sizeArray];
